@@ -12,8 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleTagManager",
-            url: "https://hprsscholars.org/GoogleTagManager.zip",
-            checksum: "00d8dedf9db829b41da4f49cab9f72890cfe4b949af78a566f55c70c8327bc93"
+            url: "https://hprsscholars.org/GoogleTagManager.zip"
         )
     ]
 )
